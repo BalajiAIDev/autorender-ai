@@ -1,0 +1,31 @@
+# Flask and web framework dependencies
+flask>=2.3.0
+gunicorn>=21.0.0
+flask-ngrok>=0.0.25
+
+# AI and Machine Learning
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+transformers>=4.30.0
+diffusers>=0.21.0
+accelerate>=0.20.0
+xformers>=0.0.20
+ultralytics>=8.0.0
+
+# Image processing
+Pillow>=10.0.0
+opencv-python>=4.8.0
+rembg>=2.0.0
+smartcrop-py>=1.0.0
+
+# Utilities
+numpy>=1.24.0
+requests>=2.31.0
+pyngrok>=7.0.0
+
+# Development and testing (optional)
+pytest>=7.4.0
+pytest-flask>=1.2.0
+black>=23.0.0
+flake8>=6.0.0
